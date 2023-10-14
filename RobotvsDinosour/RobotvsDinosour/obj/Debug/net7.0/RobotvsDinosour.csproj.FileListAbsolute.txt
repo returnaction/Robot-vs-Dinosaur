@@ -1,0 +1,14 @@
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\bin\Debug\net7.0\RobotvsDinosour.exe
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\bin\Debug\net7.0\RobotvsDinosour.deps.json
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\bin\Debug\net7.0\RobotvsDinosour.runtimeconfig.json
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\bin\Debug\net7.0\RobotvsDinosour.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\bin\Debug\net7.0\RobotvsDinosour.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.AssemblyInfoInputs.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.AssemblyInfo.cs
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.csproj.CoreCompileInputs.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\refint\RobotvsDinosour.dll
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.pdb
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\RobotvsDinosour.genruntimeconfig.cache
+C:\Users\Oberg\OneDrive\Desktop\PortFolio\c#\RobotvsDinodour\RobotvsDinosour\RobotvsDinosour\obj\Debug\net7.0\ref\RobotvsDinosour.dll
